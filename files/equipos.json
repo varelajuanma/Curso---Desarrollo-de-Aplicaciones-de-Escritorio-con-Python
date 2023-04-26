@@ -1,0 +1,16 @@
+[
+    {
+        "-NOMBRE-": "Estudiantes",
+        "-DOMICILIO-": "1 y 50",
+        "-LOCALIDAD-": "La Plata",
+        "-TELEFONO-": "1234",
+        "id": 1
+    },
+    {
+        "-NOMBRE-": "Gimnasia",
+        "-DOMICILIO-": "\"El bosque\"",
+        "-LOCALIDAD-": "La Plata",
+        "-TELEFONO-": "7777",
+        "id": 2
+    }
+]

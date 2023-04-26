@@ -1,0 +1,22 @@
+[
+    {
+        "-CLUB-": "Estudiantes",
+        "-NRO_CAMISETA-": 3,
+        "-NOMBRE_Y_APELLIDO-": "Leonardo de Prueba",
+        "-EDAD-": "30",
+        "-DNI-": "1234",
+        "-ALTURA-": "190cm",
+        "-TELEFONO-": "5555",
+        "id": 1
+    },
+    {
+        "-CLUB-": "Gimnasia",
+        "-NRO_CAMISETA-": 7,
+        "-NOMBRE_Y_APELLIDO-": "Esteban de Prueba",
+        "-EDAD-": "32",
+        "-DNI-": "132456",
+        "-ALTURA-": "180cm",
+        "-TELEFONO-": "9999",
+        "id": 2
+    }
+]
